@@ -137,4 +137,33 @@ A continuación se muestra un ejemplo del funcionamiento de la librería del cli
 
 <img width="980" height="707" alt="image" src="https://github.com/user-attachments/assets/c67d774e-0461-484b-848f-bc765f253eb0" />
 
-Aqui se muestra 
+Aqui se muestra como se encuentra el proyecto ya con el componente ya arrastrado
+
+
+<img width="933" height="617" alt="image" src="https://github.com/user-attachments/assets/dc1e4552-8126-43a5-8efa-3ca4d75f67c6" />
+
+
+Aqui se muestra que desde el otro proyecto tenemos una caja de texto en la cual ingresamos el lugar del que queremos saber su clima y el componente lo que hace es mostrar el clima de dicho lugar.
+
+
+
+<img width="928" height="646" alt="image" src="https://github.com/user-attachments/assets/fb596848-33a0-45db-9b7d-417e5ab48173" />
+
+
+Aqui tenemos otro ejemplo pero ahora del país de China.
+
+
+
+<img width="936" height="641" alt="image" src="https://github.com/user-attachments/assets/a2c19487-c89b-4412-ab4f-838d81ba683d" />
+
+
+Aqui se muestra otro ejemplo pero ahora con el país de Portugal, y con esto demostramos que la librería es capaz de mostrar el clima de cualquier país del mundo así como tambien su clima en las proximas 5 horas.
+
+
+
+## Documentación JavaDoc 
+
+https://Hbr21.github.io/Librer-a-Temperaturas/
+
+
+
