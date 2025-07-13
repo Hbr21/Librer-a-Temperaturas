@@ -1,4 +1,4 @@
-# Librer-a-Temperaturas
+  # Librer-a-Temperaturas
 # 🌤️ Librería de Clima Java - OpenWeather API
 
 En este proyecto se emplea una librería en Java que permite consultar el clima actual y el pronóstico del clima de las próximas horas para una ciudad determinada, utilizando la API de OpenWeather, presenta los datos con imágenes de fondo y pequeños íconos de clima por hora,según el clima del lugar, casi similar a la de una app de clima real.
@@ -125,4 +125,16 @@ Carga el ícono correspondiente y lo escala a 40x40 pixeles para que se vea comp
 
 ## Importar el .jar en otro proyecto
 
-Para importar la libreria en otro proyecto 
+Para importar la libreria en otro proyecto, lo que se debe de tener es el proyecto a la cual se lo vamos a implementar, en este caso sería en un JFrame, una vez ya en el frame, debemos tambien ya de tener el .jar, la cual se obtiene al darle Clean and Build al proyecto y se crear el .jar en la carpeta dist del proyecto, en el proyecto de implkemetación daremos clic derecho a la paleta, y le daremos clic donde dice palette manager.
+
+Una vez ahí le daremos clic en New Category y le pondremos un nombre a la nueva categoría, eso creara una nueva categoria, posteriormente le daremos clic a donde dice Add from JAR y buscaremos la carpeta dist donde se guardo la libreria, la seleccionamos y se abriran las clases, selecionaremos la clase Tem que es la interfaz, y nos dira en que categoría lo guardaremos, la cual seleccionaremos la categoría que hemos creado y por ultimo le daremos clic en Finish y con eso se agrega el componente que hicimos a la paleta de Netbeans y con eso podremos arrastrar el componentes y utilizarla en nuestro proyecto.
+
+
+
+## Funcionamiento del programa
+
+A continuación se muestra un ejemplo del funcionamiento de la librería del clima en otro proyecto:
+
+<img width="980" height="707" alt="image" src="https://github.com/user-attachments/assets/c67d774e-0461-484b-848f-bc765f253eb0" />
+
+Aqui se muestra 
