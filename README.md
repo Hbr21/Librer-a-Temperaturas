@@ -161,6 +161,17 @@ Aqui se muestra otro ejemplo pero ahora con el país de Portugal, y con esto dem
 
 
 
+
+## Video Explicativo 
+
+
+https://youtu.be/8ao5H0BO4cs?si=0ODnH39mryLlHzYp
+
+
+https://youtu.be/8gsBWapD1q0?si=fXGA8F1M1SCC82P7
+
+
+
 ## Documentación JavaDoc 
 
 https://Hbr21.github.io/Librer-a-Temperaturas/
