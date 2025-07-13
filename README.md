@@ -143,7 +143,7 @@ Aqui se muestra como se encuentra el proyecto ya con el componente ya arrastrado
 <img width="933" height="617" alt="image" src="https://github.com/user-attachments/assets/dc1e4552-8126-43a5-8efa-3ca4d75f67c6" />
 
 
-Aqui se muestra que desde el otro proyecto tenemos una caja de texto en la cual ingresamos el lugar del que queremos saber su clima y el componente lo que hace es mostrar el clima de dicho lugar.
+Aqui se muestra que desde el otro proyecto tenemos una caja de texto en la cual ingresamos el lugar del que queremos saber su clima y el componente lo que hace es mostrar el clima de dicho lugar, en este caso en México
 
 
 
